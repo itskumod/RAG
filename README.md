@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- launch-banner-099: remove when the $0.99 launch price ends -->
 <div align="center">
 
@@ -739,3 +740,7 @@ This project is licensed under a custom non-commercial license - see the [LICENS
 ![](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme)
 
 Keywords: RAG, Retrieval-Augmented Generation, NLP, AI, Machine Learning, Information Retrieval, Natural Language Processing, LLM, Embeddings, Semantic Search, PydanticAI, Agent Frameworks
+=======
+# RAG
+learning concepts of RAG
+>>>>>>> 8574bde1a2d5ba5b4fa450613ef1109d9609141c
